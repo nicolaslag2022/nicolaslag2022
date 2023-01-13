@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolaslag2022
-- 👀 I’m interested in learning HTML, JAVASCRIPT, CSS. 
-- 🌱 I’m currently learning Full Stack Web Development with Savvy Coders!
+- 👀 I’m interested in learning HTML, JAVASCRIPT, CSS, SQL, MONGODB. 
+- 🌱 I recenlty graduated from SAVVY CODERS Full Stack Web Development Bootcamp!
 - 💞️ I’m looking to collaborate on projects where I can learn and grow. 
 - 📫 How to reach me nick.goforth@gmail.com
 
